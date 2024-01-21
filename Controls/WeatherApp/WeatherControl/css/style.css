@@ -1,0 +1,26 @@
+.forecast-grid{
+    display: flex;
+    flex-direction: row;
+    gap:5px;
+    margin-top: 20px;
+    place-content: center;
+    margin-bottom: 20px;
+}
+
+.mt-10{
+    margin-top: 10px;
+}
+.forecast-card{
+    width: 150px;
+    min-width: 150px;
+}
+.font-weight-100{
+    font-weight: 100;
+}
+.forecast-icon{
+    font-size: 40px;
+}
+.image-container{
+    display: flex;
+    place-content: center;
+}
