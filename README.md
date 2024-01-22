@@ -6,8 +6,10 @@ NodeJs
 Microsoft Power Platform CLI
 Visual Studio Code
 
-Open project in Visual studio code and then type:
+Open control (Controls/WeatherApp) in Visual studio code and then in terminal type:
 npm install
 npm start
+
+Inside Solutions folder is Dataverse solution with control
 
 
